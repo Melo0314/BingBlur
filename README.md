@@ -45,3 +45,4 @@ __用记事本编辑时，请关闭自动换行，否则出现无法读取配置
 # 源码说明
 使用VS2017编写，用到openCV2.4.13.4和TinyXML开源库，遵循GPL标准。
 未使用MFC,MT静态编译。
+By Melo @ [nsconnect.cn](www.nsconnect.cn)
