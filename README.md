@@ -1,6 +1,6 @@
 # BingBulr
 当前版本:v0.1.1.2 （2017.12.04） <br /> 
-下载地址:项目主页BingBulrVxxx.7z是编译好的安装包。 <br /> 
+下载地址:项目主页BingBulrVxxx.zip是编译好的安装包。 <br /> 
 ## 使用方法
 * 解压BingBulr到非中文目录，如D:\ <br /> 
 * 运行 安装.bat，后运行BingBulr.exe，日后每次开启自启动。 <br /> 
