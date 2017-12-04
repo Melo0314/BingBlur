@@ -1,6 +1,6 @@
 # BingBulr
-当前版本:v0.1.1.1 （2017.11.20） <br /> 
-下载地址:项目主页BingBulrVxxx.7z是编译好的安装包。 <br /> 
+当前版本:v0.1.1.2 （2017.12.04） <br /> 
+下载地址:项目主页BingBulrVxxx.zip是编译好的安装包。 <br /> 
 ## 使用方法
 * 解压BingBulr到非中文目录，如D:\ <br /> 
 * 运行 安装.bat，后运行BingBulr.exe，日后每次开启自启动。 <br /> 
@@ -20,6 +20,10 @@ __用记事本编辑时，请关闭自动换行，否则出现无法读取配置
 <br /> 
 
 # 更新日志 #
+## v0.1.1.2
+2017.12.04<br />
+修复部分Win7设备无法清除缓存的BUG。<br />
+<br />
 ## v0.1.1.1
 2017.11.20<br /> 
 将win7下登录界面背景进行模糊度为80的高斯模糊。<br /> 
@@ -43,4 +47,4 @@ __用记事本编辑时，请关闭自动换行，否则出现无法读取配置
 # 源码说明
 使用VS2017编写，用到openCV2.4.13.4和TinyXML开源库，遵循GPL标准。 <br /> 
 未使用MFC,MT静态编译。 <br /> 
-By Melo@<a href="http://nsconnect.cn/">一片海滩nsconnect.cn</a> <br /> 
+By Melo@<a href="http://nsconnect.cn/">nsconnect.cn</a> <br /> 
