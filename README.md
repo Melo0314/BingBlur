@@ -47,4 +47,4 @@ __用记事本编辑时，请关闭自动换行，否则出现无法读取配置
 # 源码说明
 使用VS2017编写，用到openCV2.4.13.4和TinyXML开源库，遵循GPL标准。 <br /> 
 未使用MFC,MT静态编译。 <br /> 
-By Melo@<a href="http://nsconnect.cn/">一片海滩nsconnect.cn</a> <br /> 
+By Melo@<a href="http://nsconnect.cn/">nsconnect.cn</a> <br /> 
